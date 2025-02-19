@@ -4,4 +4,4 @@ title: Welcome to my blog
 
 <button id="myButton">Click me!</button>
 
-<script src="/assets/js/main.js"></script>
+<script src="{{ site.baseurl }}/assets/js/main.js"></script>
