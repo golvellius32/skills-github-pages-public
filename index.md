@@ -5,8 +5,7 @@ title: "Welcome to my blog"
 
 <button id="myButton">Javascript button for testing</button>
 
-# Save the markdown content to a file for the user to download
-markdown_content = """# Student Experience Survey (SES)
+# Student Experience Survey (SES)
 
 The [Student Experience Survey (SES)](https://www.qilt.edu.au/surveys/student-experience-survey-(ses)) is a comprehensive annual survey targeting undergraduate and postgraduate coursework students enrolled in Australian higher education institutions. It focuses on measurable aspects of the student experience that are linked to learning and development outcomes and can potentially be influenced by higher education institutions. The insights gathered assist both institutions and the government in enhancing teaching and learning outcomes.
 
@@ -31,4 +30,4 @@ For a detailed analysis, refer to the [2023 SES National Report](https://www.qil
 - [2023 SES Methodological Report](https://www.qilt.edu.au/docs/default-source/default-document-library/2023-ses-methodological-report.pdf?sfvrsn=9ef8c86_4)
 
 For more information and to explore the data further, visit the [SES page](https://www.qilt.edu.au/surveys/student-experience-survey-(ses)) on the QILT website.
-"""
+
