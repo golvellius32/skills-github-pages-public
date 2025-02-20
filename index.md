@@ -3,11 +3,10 @@ layout: default
 title: "Welcome to my blog"
 ---
 
-<button id="myButton">Javascript button for testing</button>
+<button id="myButton">Start sentiment analysis</button>
 
-# Student Experience Survey (SES)
-
-The [Student Experience Survey (SES)](https://www.qilt.edu.au/surveys/student-experience-survey-(ses)) is a comprehensive annual survey targeting undergraduate and postgraduate coursework students enrolled in Australian higher education institutions. It focuses on measurable aspects of the student experience that are linked to learning and development outcomes and can potentially be influenced by higher education institutions. The insights gathered assist both institutions and the government in enhancing teaching and learning outcomes.
+# Student Experience Survey (SES) Sentiment Analyser
+This site is being developed to apply AI technologies and sentiment analysis to surface student sentiment about the best parts of their course, and the areas that require improvement. It will use a mix of (Local) fine-tuned LLMs and RAG based approaches (and cross evaulations of approaches) to determine effective ways of linking feedback analyses with tools and training to support teaching excellence.
 
 ## Key Features of the SES:
 
