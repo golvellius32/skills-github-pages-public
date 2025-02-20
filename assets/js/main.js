@@ -1,5 +1,5 @@
 function showMessage() {
-  alert('Hello! This is a new message.');
+  alert('This will start a modal dialogue to select local LLM and configuratin options.');
 }
 
 document.addEventListener('DOMContentLoaded', function() {
