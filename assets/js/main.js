@@ -1,5 +1,5 @@
 function showMessage() {
-  alert('This will start a modal dialogue to select local LLM and configuratin options.');
+  alert('This will start a modal dialogue to select the local LLM via OLLAMA models and configuration options.');
 }
 
 document.addEventListener('DOMContentLoaded', function() {
